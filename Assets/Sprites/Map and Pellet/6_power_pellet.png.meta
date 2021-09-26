@@ -1,7 +1,13 @@
 fileFormatVersion: 2
-guid: 1c34cb8761c75694b9d7adaa824a0c87
+guid: 42a48a6c8b36b7c4eaa7fd3aba666281
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 3996192592944398630
+    second: 6_power_pellet_0
+  - first:
+      213: 7675618794480185555
+    second: 6_power_pellet_1
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,11 +47,11 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 9
-  spritePivot: {x: 0.45567384, y: 0.59751785}
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 128
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
@@ -101,7 +107,49 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: 6_power_pellet_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 189
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6218f749df3557730800000000000000
+      internalID: 3996192592944398630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_power_pellet_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 61
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0bd4c50a6458a60800000000000000
+      internalID: 7675618794480185555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
