@@ -12,7 +12,7 @@ public class PacStudentController : MonoBehaviour
     Vector3 moveDown = new Vector3(0, -1, 0);
     Vector3 moveRight = new Vector3(1, 0, 0);
     Vector3 moveLeft = new Vector3(-1, 0, 0);
-    float rayCastLength = 0.26f;
+    float rayCastLength = 0.27f;
     KeyCode lastInput;
     KeyCode currentInput;
 
